@@ -1,7 +1,7 @@
-# TheAlzhma Project - 
+# The Alzhma Project - 
 # The MH Team
 ## O projeto Alzhma,visa a estimulação cognitiva visual e digital de pessoas acometidas por Alzheimer.
-<br>Grupo -<strong> The MH Team => Carlos,Leonardo e Pedro(SI-UFPE)</strong></br>
+<br> Grupo -<strong> The MH Team => Carlos,Leonardo e Pedro(SI-UFPE)</strong></br>
 <h1>Projeto final de Engenharia de Software - SI/UFPE 2022.</h1>
 <h2>Objetivos:</h2>
 <br> - criar um software que promova a estimulação cognitiva de pacientes acometidos por Alzheimer;</br>

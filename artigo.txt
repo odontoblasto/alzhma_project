@@ -1,0 +1,633 @@
+Oficina da Lembrança: Ambiente de Inclusão Digital e Tele-Reabilitação
+Cognitiva para Idosos, Portadores de Doença de Alzheimer e Outros
+Distúrbios Cognitivos
+André Xavier1
+, Luiz Ramos 2
+, Luciane dos Santos 2
+, Daniel Sigulem1
+1Departamento de Informática em Saúde, Escola Paulista de Medicina, São Paulo, Brasil
+2Centro de Estudos do Envelhecimento ,Escola Paulista de Medicina, São Paulo, Brasil
+Resumo
+ Recentes trabalhos demonstraram que pessoas em fase inicial de processos
+demenciais submetidos a um programa sistemático de Reabilitação Cognitiva obtiveram
+melhoria sustentada nas suas capacidades cognitivas e funcionais. Este artigo apresenta
+resultados e indica caminhos para a Inclusão Digital e Tele-Reabilitação Cognitiva por
+meio da adaptação de Sistemas de Auxílio Cognitivo em ambiente web. O ambiente é
+composto por um escore cognitivo e funcional para estadiar os participantes de acordo
+com suas capacidades e deficiências, e um conjunto de ferramentas interativas de telereabilitação com o objetivo de manter autonomia, adiar a dependência do portador de
+déficits cognitivos e diminuir a carga de trabalho tanto do suporte formal (Instituições)
+quanto do informal (família e comunidade).
+Palavras-chave
+Cognição, capacidade funcional, Doença de Alzheimer, Inclusão Digital e Tele-reabilitação
+Cognitiva.
+Abstract
+Recent works have shown that inicial Alzheimer Disease patients were capable of new
+learnings using Cognitive Rehabilitation interventions. This article presents results and
+indicates ways to promote Digital Inclusion and Cognitive Tele-Rehabilitation websystem
+using the concept of Assisted Cognitive Systems. The websystem has a index based in
+cognition and functional capacity to stage impaired individuals according to their potentials
+and deficiencies and also a set of interactive tools to provide authonomy, independence to
+the patients and lower caregiver burden both from family and institutions.
+Key words
+Cognition, functional capacity, Alzheimer Disease, Digital Divide, Cognitive TeleRehabilitation
+Introdução
+ Pessoas que se encontram em
+estágios iniciais de Doença de Alzheimer
+(DA) são mais capazes de aprender do
+que antes se pensava. Pacientes com DA
+moderada que participaram de um
+programa de Reabilitação Cognitiva (RC)
+com 3 a 4 meses de duração obtiveram
+170% de melhoria em média na sua
+capacidade de reconhecimento de faces e
+nomes e 71% de melhoria na capacidade
+de fazer compras adequadamente. Os
+participantes responderam e processar
+am informações mais rapidamente,
+ficaram mais orientados no tempo e
+espaço comparando-se com um grupo
+que não recebeu este tipo de intervenção.
+Estas melhorias continuaram evidentes 3
+meses após o final da RC [1,2].
+O processo de Inclusão Digital (ID)
+promove a capacidade de pensar,
+produzir, e partilhar a riqueza material e
+cultural na sociedade atual, mas a
+complexidade progressiva da sociedade
+da informação pode aumentar a distância
+entre incluídos e excluídos. Idosos em
+geral e especificamente portadores de DA
+estão expostos a este processo de
+exclusão social e digital.
+ Segundo a OMS a Reabilitação
+Cognitiva compreende "todas as medidas
+que objetivam a redução do impacto das
+desigualdades e condições desvantajosas
+de pessoas com desabilidade para
+diminuir as distâncias e alcançar o
+máximo de integração social” [3].
+ A Tele-Reabilitação Cognitiva é uma
+metodologia de inclusão social e digital
+por meio de Sistemas de Auxílio Cognitivo
+(SACs), com os quais as perdas de
+capacidades cognitivas podem ser
+compensadas pela interação com
+sistemas computacionais para promover
+potencialidades humanas, com ênfase em
+problemas cognitivos [4].
+ O processo de Reabilitação
+Cognitiva pode ser suportado e
+desenvolvido por sistemas
+computacionais em rede pela facilidade
+de estocagem, duplicação,
+bidirecionalidade e distribuição de
+informação e conhecimento de forma
+síncrona e assíncrona.
+ A DA é uma patologia degenerativa
+cerebral caracterizada por uma demência
+insidiosa com déficits de memória,
+julgamento, atenção, dificuldades para
+tomar decisões, apraxias, e perda global
+das habilidades cognitivas [5]. DA é a
+principal causa de declínio cognitivo em
+idosos (mais de 50% dos casos) e afeta
+cerca de 15 milhões de pessoas no
+mundo. Soma-se a isto uma proporção de
+idosos que não se enquadra nos
+critérios para a Doença de Alzheimer
+tornando importante o conceito de
+Comprometimento Cognitivo Leve (CCL),
+em função de critérios diagnósticos
+relativamente específicos e o risco
+substancial daqueles que os preenchem
+para o desenvolvimento de DA [4].
+Yesavage [6] propõe um modelo no qual
+a prevalência da DA é de 1% aos 60
+anos e aumenta para 25% aos 85 anos
+com uma taxa de conversão de CCL para
+DA constante de 10% através de todas
+as idades. O CCL pode ser um alvo
+importante para a triagem e possível
+intervenção.
+Esquema 1- Reabilitação multinível.
+ O fenômeno da auto-consciência
+humana e da alteridade, isto é, a
+capacidade de modelagem de estados
+mentais de terceiros são fortemente
+relacionados a funções executivas. Uma
+forte interação entre auto-consciência e
+alteridade foi observada no córtex préfrontal direito observando-se indivíduos
+realizando tarefas com variados graus de
+complexidade por meio de ressonância
+magnética funcional com ativações
+neuronais diferentes, sugerindo
+capacidades parcialmente independentes
+Idoso
+Hígido
+Alzheimer
+CCL
+Reabilitação
+em regiões distintas do cérebro [8]. Autoconsciência e alteridade portanto podem
+ser concebidas como redes neuronais
+complexas se sobrepondo e integrando os
+conteúdos de nossas experiências
+constituindo um novo foco de reabilitação
+cognitiva: auto-consciência e cooperação
+suportando outros déficits cognitivos tais
+como memória de evocação ou orientação
+espacial.
+ Além disso, a Tele-Reabilitação
+Cognitiva procura estimular a
+Neuroplasticidade que é a propriedade do
+Sistema Nervoso Central (SNC) de
+modificar sua estrutura em função das
+mudanças estruturais do meio
+[9,10,11,12,13,14]. O SNC é capaz de
+modificar sua própria estrutura por meio
+da Neurogênese e Sinaptogênese, este
+fenômeno viabiliza a reabilitação
+cognitiva estimulando-se mudanças
+estruturais no SNC pela interação
+Humano-Computador com uso de SACs.
+Certos tipos de memória podem ser
+preservados no envelhecimento e nas
+demências, fenômeno mediado pela área
+pré-frontal, estas habilidades
+remanescentes são um alvo importante
+para a RC [6,16].
+Objetivo geral
+
+ Demonstrar que portadores de
+Comprometimento Cognitivo Leve e
+Demências em estágio inicial podem
+realizar atividades cooperativas ou
+individuais sustentadas por sistemas
+computacionais modeladas por
+níveis de complexidade.
+Objetivos específicos
+ Determinar atividades interativas de
+acordo com a capacidade funcional e
+estado cognitivo modeladas por
+níveis de complexidade e dificuldade.
+ Manter e desenvolver a independência
+e autonomia de idosos, doentes de
+Alzheimer e portadores de outros
+distúrbios cognitivos em grupos e
+individualmente, por meio da
+Inclusão Digital.
+ Aumentar o alcance de tecnologias de
+reabilitação por meio da Internet.
+ Compensar déficits cognitivos usando
+a Interação Humano-computador.
+ Formar rede de cooperação para
+inclusão digital de idosos e
+portadores de alterações cognitivas.
+ Reconceituar o fenômeno demência a
+partir da interação humanocomputador.
+Materiais e Métodos
+ O ambiente web proposto neste
+artigo foi concebido a partir de um estudo
+qualitativo com oficinas de Internet para
+idosos [14] e outro quantitativo, com uso
+de dados secundários do estudo
+longitudinal EPIDOSO [15].
+ No estudo qualitativo foi avaliada a
+interação humano-computador de um
+grupo de 42 idosos (37 hígidos e 5 com
+alterações cognitivas) em 33 oficinas com
+150 horas de observação [1]. Os níveis de
+complexidade foram definidos como o
+nível cognitivo necessário para se
+interagir de forma sustentada com um
+SAC e suas respectivas tarefas.
+ O ambiente foi modelado para prover
+aos profissionais de saúde e cuidadores
+estratégias de promoção da saúde de
+idosos em seus vários estados cognitivos
+e funcionais. O processo demencial neste
+contexto é visto como um continuum onde
+são possíveis ações de prevenção e
+promoção em várias etapas (esquema 1).
+ O processo de ID e TeleReabilitação Cognitiva fundamenta-se em
+uma metodologia de estadiamento capaz
+de determinar deficiências e recursos
+cognitivos e funcionais remanescentes
+nos participantes de acordo com níveis de
+complexidade e dificuldade a partir de
+funções executivas que são funções
+cognitivas superiores [7]. “NÍVEL 1”:
+Desenvolvimento da Psicomotricidade
+(movimento coordenado no espaço e
+tempo). “NÍVEL 2”: Identidade,
+surgimento do observador ao explorar os
+vários dispositivos e tarefas interativas.
+“NÍVEL 3”: Autoconsciência, crítica e
+responsabilidade no uso de dispositivos e
+tarefas interativas.“NÍVEL 4”: Alteridade,
+autonomia e cooperação.
+
+Tabela 1- Seta vertical aumento da complexidade,
+seta horizontal aumento da dificuldade.
+
+ Estes dispositivos e tarefas
+interativas foram usados como SACs a
+fim de promover Inclusão Digital e a TeleReabilitação Cognitiva: os hardwares
+usados foram: teclados, mouses,
+webcams, fones de ouvido, microfones,
+monitores de 14” e 17“ e GPS (Global
+Positioning System). Os softwares
+experimentados foram: MS Windows ,
+IBM ViaVoice , Internet Explorer, MS
+Paint, Whiteboard, Web mail, CHAT,
+Listas de Discussão, Yahoo Messenger,
+NetMeeting, jogos online de perguntas
+e respostas, e Jogos de Realidade Virtual
+(Tab.1). Foram utilizados para este
+propósito, computadores em redes locais
+(LAN - Local Area Network) ou a Internet
+(WAN - Wide Area Network).
+ A hierarquização do estatus cognitivo
+e capacidade funcional por níveis de
+complexidade e dificuldade proposta por
+Xavier [1], utilizou os escores MMSE e
+BOMFAQ/OARS obtidos no banco de
+dados do estudos EPIDOSO: Os idosos
+foram classificados em grupos, conforme
+os escores do MMSE (5 questões de
+orientação temporal, alto grau de
+complexidade) [15]. (5 = acertou 5
+questões, 4 = acertou 4 questões, 3 =
+acertou 3 questões, 2 = acertou 2
+questões, 1 = acertou 1 questão, 0
+acertou 0 questão) e 3 grupos de alta
+complexidade AVDs/BOMFAQ (2 = fazer
+compras e uso correto da medicação, 1 =
+fazer compras ou usar corretamente a
+medicação, 0 = não fazer compras e não
+usar corretamente a medicação),
+formando-se 18 grupos, recombinados por
+3 categorias (gráfico) da evolução
+cognitiva: verde (excelente orientação
+temporal e capacidade funcional, boa
+capacidade de aprendizado), amarelo,
+(grupo intermediário), e vermelho (perda
+de orientação temporal e capacidade
+funcional, provável piora da evolução do
+quadro). Este processo gerou 18 classes
+distintas identificadas conforme seu status
+cognitivo e funcional (P <0,001).
+Mouse, teclados, teclado virtual,
+MS paint, galerias de fotografias,
+apresentações em Power Point.
+Nível 1
+Navegação na Internet,
+ jogos individuais.
+Nível
+2
+Máquina de busca, blogs,
+jogos de perguntas e respostas,
+jogos de realidade virtual.
+Nível 3
+Chat, Messeger,
+Netmeeting,
+jogos cooperatives, correio
+eletrônico, listas de discussão.
+Nível 4
+MMSE,
+Orient.
+Temp.
+BOMFAQ/OARS AVD e AIVD
+Tabela 2- Grupos verdes, tendência de melhoria,
+amarelos=intermediário, vermelhos= piora da
+evolução cognitiva (página anterior).
+ A metodologia de estadiamento e
+Tele-Reabilitação Cognitiva foi utilizada
+em 12 idosos com CDR (Clinical Demetia
+Rating de 0,5 a 2,0) caracterizando
+alterações cognitivas iniciais, demência
+inicial e demência moderada. Foram
+aplicados nos participantes o escore
+MMSE e o BOMFAQ e realizada a
+modelagem das funções executivas de
+alta complexidade. A partir destes
+resultados os participantes iniciaram um
+processo de aprendizado de ferramentas
+interativas: 1-uso do mouse em desenho
+livre, 2-Visualização de apresentações do
+tipo PPT/PPS, 3-Navegação em
+hipertexto usando Internet Explorer e 4-
+Uso de Webmail (hardwares e softwares
+com níveis progressivos de complexidade)
+foi verificado se os participantes foram
+capazes de compreender e interagir com
+cada SAC proposto de acordo com a
+previsão do escore cognitivo/funcional,
+apesar de outros comprometimentos
+cognitivos. Foram realizadas 10 oficinas,
+com 2 horas de duração cada, em sala
+composta por computadores em rede. Foi
+realizada uma avaliação qualitativa do
+desempenho dos participantes nas
+oficinas por meio de entrevistas
+gravações fotografias e filmagens das
+atividades, relacionando-se os resultados
+com os escores MMSE, BOMFAQ e o
+escore cognitivo/funcional.
+Resultados
+Participantes CDR MMSE BOMFAQ Escore
+Cognitivo/
+funcional
+Aprendeu
+mouse
+Aprendeu
+Power
+Point
+Aprendeu
+navegar
+Aprendeu
+Correio
+ eletrônico
+SR 2,0 12 6 0C sim não não não
+CoM* 2,0 18 1 1C sim sim não não
+OP 1,0 19 12 1B sim sim sim não
+LCT 1,0 22 12 3B sim sim sim sim
+RK 0.5 29 15 5A sim sim sim sim
+CM 0,5 28 11 5A sim sim sim sim
+CLD 0,5 29 15 5A sim sim sim sim
+DLD 0,5 24 11 5C sim sim sim sim
+ERF 0,5 30 10 5B sim sim sim sim
+ER 0,5 30 13 5A sim sim sim sim
+FFL* 0,5 24 13 5A sim sim não não
+MGR 0,5 29 12 5C sim sim sim sim
+Tabela 3: participantes das oficinas e relação entre os diversos escores e as atividades que conseguiram
+realizar. * Paralisia de membro superior direito, aprenderam a usar o mouse com a mão trocada (botões
+invertidos).
+ Foram realizadas 10 oficinas com
+participação de 12 idosos (02 CDR = 2,0 ;
+02 CDR = 1,0; e 08 CDR = 0,5) e
+implantado o ambiente piloto para
+Inclusão Digital e Tele-Reabilitação
+Cognitiva em sala de interação (LAN). O
+grupo cooperativo com os idosos formado
+contou com a participação de 2
+profissionais (psicólogo e analista de
+sistemas) com o objetivo de capacitação
+interdisciplinar.
+ Todos foram capazes do tipo menos
+complexo de interação proposto, (uso do
+mouse para desenho a mão livre), 10
+foram capazes de passar apresentações
+em Power Point, 9 foram capazes de
+navegar em hipertextos procurando
+assuntos do seu interesse e 8 foram
+capazes de utilizar os princípios básicos
+do webmail (escrever, enviar, responder
+mensagens).
+ Os idosos participantes das oficinas
+apesar de diversas dificuldades
+educacionais, perceptivas (visão, audição,
+tato), osteomusculares (dificuldades de
+postura e dores) e de memória de
+evocação (CDR – 0,5 a 2,0) foram
+capazes de interagir com as ferramentas
+propostas para o seus respectivos níveis
+cognitivos/funcionais (Tab.-3).
+Discussão
+
+ O conceito de Sistema de Auxílio
+Cognitivo até a realização desta pesquisa
+foi usado principalmente para
+monitorização e controle do paciente
+demenciado (Computação Onipresente e
+Inteligência Artificial) [4], com pouca ação
+sobre as funções executivas que são
+responsáveis pela autonomia e
+independência, não foi encontrada uma
+relação sistematizada entre os déficits
+cognitivos e os SACs gerando uma
+supersimplificação do processo. Nesta
+pesquisa os resultados sugerem que, com
+menos recursos de alta tecnologia é
+possível trazer mais benefícios unindo-se
+os SACs com uma metodologia de
+Interação Humano-Computador
+modelada pelo estado cognitivo e
+funcional dos usuários. Desta forma podese quebrar barreiras físicas e cognitivas
+propiciando a cooperação, qualificando e
+incluindo seres humanos. Pessoas com
+déficits cognitivos podem interagir
+cooperativamente com SACs em graus de
+dificuldade e complexidade que poderão
+ser impossíveis de ser alcançados
+isoladamente [16,17]. O conceito de
+Inclusão Cognitiva é introduzido para
+definir a compensação das dificuldades na
+IHC, ampliando as capacidades,
+introduzindo novos aprendizados,
+desenvolvendo, reabilitando funções a
+cada nível de complexidade e
+proporcionando a participação social
+[18,19]. O ambiente foi capaz de
+sustentar a Inclusão Digital e a TeleReabilitação Cognitiva propondo e
+simulando situações da realidade sem
+riscos e/ou frustrações. SACs podem
+atuar como uma extensão das
+capacidades mentais dos indivíduos
+[20,21,22,23, 24].
+Conclusão
+ Idosos demenciados são capazes
+de interagir com computadores.
+Atividades interativas podem ser
+suportadas por Sistemas de Auxílio
+Cognitivo, tanto individuais quanto
+cooperativas. Idosos e portadores de DA
+interagem por meio de interfaces
+acessíveis para compensar déficits e
+alcançar um nível mais alto de
+funcionalidade. Os idosos foram capazes
+de interagir com as ferramentas
+propostas de acordo com sua capacidade
+cognitiva e funcional, aumentando o
+alcance de tecnologias de reabilitação
+por meio da Internet. Os participantes
+tiveram sua autonomia e independência
+aumentadas, pois passaram a utilizar
+outras formas de acesso a serviços e
+comunicação.
+ Um “Sistema DemenciadoComputador” modelado por níveis de
+complexidade e dificuldade operando de
+forma humanizada e coordenada, pode
+ser usado para promover a independência
+e autonomia de pacientes, cuidadores e
+familiares.
+ A partir dos estudos qualitativos e
+quantitativos foram criados conceitos
+básicos para a Inclusão Digital e TeleReabilitação Cognitiva:
+
+1. Tarefas com alta complexidade
+remanescentes, podem compensar a
+perda das tarefas de menor
+complexidade.
+2. No nesmo nível de complexidade,
+tarefas mais difíceis podem compensar
+tarefas mais fáceis.
+3. Se existem tarefas remanescentes
+em um nível de complexidade, outras
+tarefas no mesmo nível tem potencial para
+ser reabilitadas.
+4. Sistemas de Auxílio Cognitivo são
+capazes de preservar e reabilitar tarefas
+complexas substituindo ou compensando
+as tarefas menos complexas.
+5. Sistemas de Auxílio Cognitivo são
+capazes de interagir com idosos,
+pacientes portadores de DA e outras
+alterações cognitivas promovendo a
+autonomia e independência nas
+Atividades da Vida Diária.
+6. Sistemas de Auxílio Cognitivo podem
+preservar o nível de complexidade das
+tarefas por meio de simulação, usando-se
+Realidade Virtual (RV).
+ A metodologia desenvolvida redefine
+a evolução do fenômeno demencial em
+termos de complexidade das tarefas do
+dia-a-dia: “Perda progressiva da
+capacidade de se realizar tarefas
+complexas, começando pela perda das
+funções executivas (Alteridade,
+cooperação), passando pela perda da
+autoconsciência (julgamento, crítica e
+discernimento) da Identidade
+(autocuidado, iniciativa) e finalmente do
+movimento organizado
+(psicomotricidade)”.
+A democracia cognitiva pode ser
+alcançada a partir do desenvolvimento
+científico e tecnológico para todos.
+ .
+Referências
+[1] Lowenstein A. et cols, “Cognitive rehabilitation
+of mildly impaired Alzheimer disease patients on
+cholinesterase inhibitors”. Am. J. Geriatr.
+Psychiatry 2004 12: 234-237
+[2] Cindy Lustig, Buckner R., Preserved Neural
+Correlates of Priming in Old Age and Dementia
+June 10, 2004, issue of Neuron.
+[3] United Nations, eNable-Accessicibility,
+[http://www.un.org/esa/socdev/enable/disacc.htm]
+march, 2004.
+[3] Adams et al., Principles of Neurology, 6th ed,
+pp1049-57),
+[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db
+=mesh] 1998.
+[4] Kautz H, Etzioni O, Fox D, Weld D, Lokendra
+S, Foundations of Assisted Cognition Systems,
+Technical Report CSE-02-AC-01, Department of
+Computer
+Science & Engineering, University of Washington,
+International Computer Science Institute Berkeley,
+2002.
+[5] Ramos L.,R., In Freitas E.V., Py L., Neri A.L.,
+Cançado F.A.X., Gorzoni M.L., Rocha S.M.(Orgs):
+“Tratado de Geriatria e Gerontologia” . Editora
+Guanabara Koogan, Rio de Janeiro, 2002.
+[6] Yesavage J. et al.“Modeling the prevalence
+and incidence of Alzheimer’s disease and mild
+cognitive impairment” Journal of Psychiatric
+Research, Volume 36, Issue 5 ,pp 281-286
+Setembro-Outubro 2002.
+[7]Xavier AJ., “Cognition, Interaction and Ageing:
+an Internet workshops exploratory study, Medical
+and Care Compunetics in Tecnology and
+Informatics 103. Bos L, Laxminarayan S, Marsh
+A.IOS Press, Amsterdam , 2004
+[8] Vogeley K. et al, “Mind Reading: Neural
+Mechanisms of Theory of Mind and SelfPerspective”, NeuroImage Volume 14, número 1 ,
+pp170-181
+[http://www.sciencedirect.com/science?_ob=Articl
+eURL&_udi=B6WNP-457D9SH2Y&_user=10&_handle=B-WA-A-A-VZMsSAYWA-UUA-AUEDWVZAVZ-AUEVYWZEVZZUDYDBWZY-VZU&_fmt=summary&_coverDate=07%2F31%2F20
+01&_rdoc=17&_orig=browse&_srch=%23toc%236
+968%232001%23999859998%23286599!&_cdi=6
+968&view=c&_acct=C000050221&_version=1&_u
+rlVersion=0&_userid=10&md5=d2f8c5f826ffb1ecc
+8f9c305f15a9dd1], Julho 2001.
+[9] Varela F., O cérebro não é um computador:
+não podemos entender a cognição se a
+abstrairmos de sua encarnação. La Recherche,
+308, pp 109-112, 1998.
+[10] Lettvin, J., H. Maturana, W. McCulloch, and
+W. Pitts. (1959). What the frog's eye tells the
+frog's brain. Proceedings of the IRE 47:1940-
+1959. Reprinted in Embodiments of Mind.
+[11] Maturana H., Varela F., “The Tree of
+Knowledge: The Biological Roots of Human
+Understanding”, Boston, New Science Library,
+1986.
+[12] Maturana H.R. & Mpodozis J.,
+"Selforganization: potrait of a scientific revolution"
+(pp. 12-35). Dodrecht, Kluwer Academic
+Publishers 1992.
+[13] Maturana H.R., Mpodozis J., Letelier J.C.,
+“Brain, language and the origin of human mental
+functions”. Departamento de Biología, Facultad
+de Ciencias, Universidad de Chile, Santiago,
+Chile 1995.
+[14] Maturanaa
+ H.R. “A Ontologia da Realidade”.
+Editora UFMG, Belo Horizonte, 1999
+[15] Xavier A.J., “Cognição, Interação e
+Envelhecimento: Estudo Exploratório a Partir de
+Oficinas de Internet”, Tese de mestrado em
+Ciências da Computação apresentada na
+Universidade Federal da Santa Catarina
+LSC/INE/UFSC, Florianópolis, 2002.
+[16] Ramos L.R., Simões E.J., Albert M.S.,
+“Dependence in Activities of Daily Living and
+Cognitive Impairment Strongly Predicted Mortality
+in Older Urban Residents in Brazil: a 2-Year
+Follow-Up”, JAGS 49: 1168-1175, 2001.
+[17] Smith, M.W., Czaja, S. J, and Sharit, J.
+(1999). Aging, Motor Control, and the
+Performance of Computer Mouse Task. Human
+Factors, cap. 41, pp 389-397.
+[18] Story M.F., “The Universal Design File:
+Designing for People of All Ages and Abilities”.
+Published by The Center for Universal Design NC
+State University, 1998.
+[19] Glaserfeld E., The Conceptual Construction
+of Time, Mind and Time, pp 8-10 Neuchâtel, 1996.
+[20] Thelen, E. and L.Smith “A Dynamical
+Systems Approach to the Development of
+Cognition and Action”, MIT Press, Cambridge
+1993.
+[21] Xavier A.J., Raabe A., Sales M. B.,
+Alternativas de Interação Numa Sociedade que
+Envelhece. Anais do XIII Congresso de Geriatria
+e Gerontologia Rio de Janeiro 2002.
+[22] Costa R.M.E., Ambientes Virtuais na
+Reabilitação Cognitiva de Pacientes Neurológicos
+e Psiquiátricos, Tese apresentada à
+COPPE/UFRJ como parte dos requisitos
+necessários para a obtenção do grau de Doutor
+em Ciências (D.Sc.) 2000.
+[23] Schwartz G., “Exclusão digital entra na
+agenda econômica mundial”, Folha de São Paulo
+(18.06.00),
+[http://www.exclusao.hpg.ig.com.br/texto%20-
+%20schwartz02.htm], São Paulo, 2000.
+[24] Morin E.(Org.) “A religação dos Saberes. O
+desafio do Século XXI”, Editora Bertrand Brasil,
+Rio de Janeiro, 1998
+Anexo1 - Estrutura do Ambiente Oficina da Lembrança.
+REGISTRO
+SCORE E AVALIAÇÃO MÉDICA
+ESTADIAMENTO
+DATABASE
+ INTERAÇÃO COMPATÍVEL
+FEED BACK
+PACIENTE
+EQUIPE
+DE SAÚDE
+FEED BACK
+Contato: Andréjx-pg@dis.epm.br 

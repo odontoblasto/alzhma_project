@@ -1,3 +1,11 @@
+class Node:
+  def__init__(self,name):
+    self.name = name
+class Node_image:
+  def__init__(self,photo = None, description = None):
+    self.photo = photo
+    self.description = description
+
 class Customer_Base:
 pass
 class User:

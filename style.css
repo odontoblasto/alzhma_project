@@ -55,8 +55,8 @@ header{
   }
   
 .btn:active{
-    position:relative;
-    top:5px;
+    position:absolute;
+   
     
   }
   
@@ -76,8 +76,8 @@ header{
   }
 
 .help:active{
-    position:relative;
-    top:59px;
+    position:absolute;
+    
   }
   
 .settings{
@@ -99,10 +99,7 @@ header{
   
 .settings:active{
   position:absolute; 
-  top:56%;
-  left:52%;
-  transform: translate(-50%, 150%);
-  top:5px;
+
   }
 .exit{
     font-family:arial;
@@ -121,8 +118,8 @@ header{
 
   
 .exit:active{
-    position:relative;
-    top:56px
+    position:absolute;
+    
     }
 
     .imp{

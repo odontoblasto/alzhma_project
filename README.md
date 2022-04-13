@@ -1,7 +1,7 @@
 # The Alzhma Project - 
 # The MH Team
-## O projeto Alzhma, visa principalmente a estimulação cognitiva visual e digital e os benefícios que esses estímulos podem trazer para a saúde cognitiva e no geral de pessoas acometidas por Alzheimer.
-<br> Grupo -<strong> The MH Team => Carlos,Leonardo e Pedro(SI-UFPE)</strong></br>
+## O projeto Alzhma, visa principalmente a estimulação cognitiva, visual e digital, trazendo os benefícios desses estímulos para a saúde cognitiva, mental e bem-estar para as pessoas acometidas por Alzheimer e consequentemente para pessoas de seu convívio.
+<br> Grupo -<strong> The MH Team, formado por: Carlos Eduardo Vasconcellos , Leonardo Bezerra e Pedro Henrique, alunos de Sistemas de Informação na Universidade Federal de Pernambuco(UFPE)</strong></br>
 <br> *Atualmente o grupo é formado por esses integrantes, o que pode ser alterado em breve por situações que estão além do nosso alcance de transformação.*
 <h1>Projeto final de Engenharia de Software - SI/UFPE 2022.</h1>
 <h2>Objetivos:</h2>
@@ -31,6 +31,6 @@
   Eu,Carlos filho de uma Mãe diagnosticada com esse mal em 2015, ao acompanhar seu tratamento e evolução, notei que seu humor e vontade de viver eram estimulados quando víamos fotografias antigas de parentes, locais e eventos que já fizeram parte da vida de minha Mãe.</br>
   Felizmente, desde o 1°semestre do meu Curso de SI (2020.01) no Cin da Ufpe, tenho encontrado outras pessoas que se interessam e estão dispostas a mitigar esse sofrimento.Em meu auxílio, juntaram-se Leonardo Bezerra e Pedro Henrique Medeiros pra criarmos <strong>The MH Team ( "The Mad Hatters" )</strong>. </p>
   <h3>Juntos estamos construindo uma ferramenta tecnológica computacional dentro da cadeira de Engenharia de Software na esperança de estimular e desacelerar o progresso de uma doença covarde e devastadora !</h3>   
-<h2>Artigos Científicos:<a href="https://telemedicina.unifesp.br/pub/SBIS/CBIS2004/trabalhos/arquivos/782.pdf"><br/>Oficina da Lembrança: Ambiente de Inclusão Digital e Tele-Reabilitação
+<br>Artigos Científicos:<a href="https://telemedicina.unifesp.br/pub/SBIS/CBIS2004/trabalhos/arquivos/782.pdf"><br/>Oficina da Lembrança: Ambiente de Inclusão Digital e Tele-Reabilitação
 Cognitiva para Idosos, Portadores de Doença de Alzheimer e Outros
   Distúrbios Cognitivos </a></h2>

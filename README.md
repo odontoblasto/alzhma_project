@@ -1,7 +1,11 @@
 # The Alzhma Project - 
-# The MH Team
-## O projeto Alzhma, visa principalmente a estimulação cognitiva, visual e digital, trazendo os benefícios desses estímulos para a saúde cognitiva, mental e bem-estar para as pessoas acometidas por Alzheimer e consequentemente para pessoas de seu convívio.
-<br> Grupo -<strong> The MH Team, formado por: Carlos Eduardo Vasconcellos , Leonardo Bezerra e Pedro Henrique, alunos de Sistemas de Informação na Universidade Federal de Pernambuco(UFPE)</strong></br>
+## The MH Team
+### O projeto Alzhma, visa principalmente a estimulação cognitiva, visual e digital, trazendo os benefícios desses estímulos para a saúde cognitiva, mental e bem-estar para as pessoas acometidas por Alzheimer e consequentemente para pessoas de seu convívio.
+<img src="http://pm1.narvii.com/6666/908ebbda0eca109c517359171099ea8bdba3f35d_00.jpg" alt="http://pm1.narvii.com/6666/908ebbda0eca109c517359171099ea8bdba3f35d_00.jpg" style="width:200px;"> <br> art by "arte mysa"</br>
+
+
+
+<br>  <strong> Grupo - The MH Team, formado por: Carlos Eduardo Vasconcellos , Leonardo Bezerra e Pedro Henrique, alunos de Sistemas de Informação na Universidade Federal de Pernambuco(UFPE)</strong></br>
 <br> *Atualmente o grupo é formado por esses integrantes, o que pode ser alterado em breve por situações que estão além do nosso alcance de transformação.*
 <h1>Projeto final de Engenharia de Software - SI/UFPE 2022.</h1>
 <h2>Objetivos:</h2>
@@ -32,7 +36,7 @@
 <br> Como a ideia do projeto surgiu:
   
   
-    Eu,Carlos filho de uma Mãe diagnosticada com esse mal em 2015, ao acompanhar seu tratamento e evolução, notei que seu humor e vontade de viver eram estimulados  quando víamos fotografias antigas de parentes, locais e eventos que já fizeram parte da vida de minha Mãe.
+    Eu, Carlos filho de uma Mãe diagnosticada com esse mal em 2015, ao acompanhar seu tratamento e evolução, notei que seu humor e vontade de viver eram estimulados  quando víamos fotografias antigas de parentes, locais e eventos que já fizeram parte da vida de minha Mãe.
 Felizmente, desde o 1°semestre do meu Curso de SI (2020.01) no Cin da Ufpe, tenho encontrado outras pessoas que se interessam e estão dispostas a mitigar esse sofrimento.Em meu auxílio, juntaram-se Leonardo Bezerra e Pedro Henrique Medeiros pra criarmos <strong>The MH Team ( "The Mad Hatters" )</strong>. </p>
   <h3>Juntos estamos construindo uma ferramenta tecnológica computacional dentro da cadeira de Engenharia de Software na esperança de estimular e desacelerar o progresso de uma doença covarde e devastadora !</h3>   
 <br>Artigos para breve leitura e melhor entendimento do tema do projeto:

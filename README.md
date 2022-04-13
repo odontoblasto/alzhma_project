@@ -1,7 +1,7 @@
-# The Alzhma Project - 
+# The Alzhma Project 
 ## The MH Team
 ### O projeto Alzhma, visa principalmente a estimulação cognitiva, visual e digital, trazendo os benefícios desses estímulos para a saúde cognitiva, mental e bem-estar para as pessoas acometidas por Alzheimer e consequentemente para pessoas de seu convívio.
-<img src="http://pm1.narvii.com/6666/908ebbda0eca109c517359171099ea8bdba3f35d_00.jpg" alt="http://pm1.narvii.com/6666/908ebbda0eca109c517359171099ea8bdba3f35d_00.jpg" style="width:200px;"> <br> art by "arte mysa"</br>
+<img src="http://pm1.narvii.com/6666/908ebbda0eca109c517359171099ea8bdba3f35d_00.jpg" alt="http://pm1.narvii.com/6666/908ebbda0eca109c517359171099ea8bdba3f35d_00.jpg" style="width:200px;"> <br> art by "arte mysa"</br> <img src="https://pm1.narvii.com/6598/fb7ef1f000c4ceadd50731c676d5c0a673c30889_hq.jpg" alt="https://pm1.narvii.com/6598/fb7ef1f000c4ceadd50731c676d5c0a673c30889_hq.jpg" style="width:200px;"> <br> art by Tyago Rodrigues </br>
 
 
 
@@ -23,10 +23,9 @@
 
 <br> - ter parceria com alguma plataforma de streaming de músicas, criando novos jogos, playlists com estilos musicais específicos do agrado dos usuários</br>
 
-<br> Até o momento a ideia é criar através do html, css e javascript, as página de início, secundária, com a divisão de opções de jogo, e as páginas específicas após a entrada na segunda página guiando a escolha da opção fornecida. Buscamos criar páginas que contem com estímulos visuais atrativos para os usuários, vocais e musicais, caso possível, criando um ambiente de reflexão, introspecção e relaxamento.
+<p align="justify"><br> Até o momento a ideia é criar através do html, css e javascript, as página de início, secundária, com a divisão de opções de jogo, e as páginas específicas após a entrada na segunda página guiando a escolha da opção fornecida. Buscamos criar páginas que contem com estímulos visuais atrativos para os usuários, vocais e musicais, caso possível, criando um ambiente de reflexão, introspecção e relaxamento.
 
-<br> O nosso principal objetivo é ajudar as pessoas acometidas pela doença a terem momentos interessantes e proveitosos para seu desenvolvimento pessoal, apesar de se tratar de jogos simples, como o maior número de pessoas com Alzheimer se encontra numa faixa etária mais elevada e já podem contar com um avanço da sua degeneração cognitiva não é viável a criação de sistemas tão complexos para seu uso, além do mais alguns desses usuários podem nunca sequer ter tido acesso a equipamentos digitais e através do projeto podem desenvolver também esse tipo de habilidade. </br> 
-
+ <br> O nosso principal objetivo é ajudar as pessoas acometidas pela doença a terem momentos interessantes e proveitosos para seu desenvolvimento pessoal, apesar de se tratar de jogos simples, como o maior número de pessoas com Alzheimer se encontra numa faixa etária mais elevada e já podem contar com um avanço da sua degeneração cognitiva não é viável a criação de sistemas tão complexos para seu uso, além do mais alguns desses usuários podem nunca sequer ter tido acesso a equipamentos digitais e através do projeto podem desenvolver também esse tipo de habilidade. </br> <p>
 
 
 
@@ -44,3 +43,5 @@ Através da ligação feita na realização de trabalhos anteriores e a amizade 
 Cognitiva para Idosos, Portadores de Doença de Alzheimer e Outros
   Distúrbios Cognitivos </a>
   </h2>
+  
+#### Cuidado ao seguir os padrões impostos pela sociedade e se esquecer dos padrões que realmente te façam feliz. - Mauro Henrique Júnior

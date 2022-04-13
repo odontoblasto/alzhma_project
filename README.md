@@ -35,5 +35,4 @@
 <a href="https://telemedicina.unifesp.br/pub/SBIS/CBIS2004/trabalhos/arquivos/782.pdf"><br/>Oficina da Lembrança: Ambiente de Inclusão Digital e Tele-Reabilitação
 Cognitiva para Idosos, Portadores de Doença de Alzheimer e Outros
   Distúrbios Cognitivos </a>
-<a href="www.google.com">
   </h2>

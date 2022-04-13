@@ -30,6 +30,8 @@
 <p> A frequência de pessoas acometidas pela Doença de Alzheimer cresce no Brasil, sendo as pessoas idosas as mais afetadas.<br>
   
 <br> Como a ideia do projeto surgiu:
+  
+  
     Eu,Carlos filho de uma Mãe diagnosticada com esse mal em 2015, ao acompanhar seu tratamento e evolução, notei que seu humor e vontade de viver eram estimulados       quando víamos fotografias antigas de parentes, locais e eventos que já fizeram parte da vida de minha Mãe.</br>
     Felizmente, desde o 1°semestre do meu Curso de SI (2020.01) no Cin da Ufpe, tenho encontrado outras pessoas que se interessam e estão dispostas a mitigar esse         sofrimento.Em meu auxílio, juntaram-se Leonardo Bezerra e Pedro Henrique Medeiros pra criarmos <strong>The MH Team ( "The Mad Hatters" )</strong>. </p>
   <h3>Juntos estamos construindo uma ferramenta tecnológica computacional dentro da cadeira de Engenharia de Software na esperança de estimular e desacelerar o progresso de uma doença covarde e devastadora !</h3>   

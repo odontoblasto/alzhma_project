@@ -28,10 +28,12 @@
 
 <h2> Contextualização:</h2>
 <p> A frequência de pessoas acometidas pela Doença de Alzheimer cresce no Brasil, sendo as pessoas idosas as mais afetadas.<br>
+  
+<br> Como a ideia do projeto surgiu: </br> 
   Eu,Carlos filho de uma Mãe diagnosticada com esse mal em 2015, ao acompanhar seu tratamento e evolução, notei que seu humor e vontade de viver eram estimulados quando víamos fotografias antigas de parentes, locais e eventos que já fizeram parte da vida de minha Mãe.</br>
   Felizmente, desde o 1°semestre do meu Curso de SI (2020.01) no Cin da Ufpe, tenho encontrado outras pessoas que se interessam e estão dispostas a mitigar esse sofrimento.Em meu auxílio, juntaram-se Leonardo Bezerra e Pedro Henrique Medeiros pra criarmos <strong>The MH Team ( "The Mad Hatters" )</strong>. </p>
   <h3>Juntos estamos construindo uma ferramenta tecnológica computacional dentro da cadeira de Engenharia de Software na esperança de estimular e desacelerar o progresso de uma doença covarde e devastadora !</h3>   
-<br>Artigos Científicos relacionados ao tema:
+<br>Artigos para breve leitura e melhor entendimento do tema do projeto:
 <a href="https://telemedicina.unifesp.br/pub/SBIS/CBIS2004/trabalhos/arquivos/782.pdf"><br/>Oficina da Lembrança: Ambiente de Inclusão Digital e Tele-Reabilitação
 Cognitiva para Idosos, Portadores de Doença de Alzheimer e Outros
   Distúrbios Cognitivos </a>

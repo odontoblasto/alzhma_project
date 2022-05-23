@@ -13,10 +13,10 @@ def __init__(self, name = None):
   self.name = name
   def getName(self,name):
     print("Nome Cadastrado", self.name)
-    return self.name
+    return  str(self.name)
   def setName(self,name):
     self.name = name
-    return name
+    return str(self.name)
 class Upload:
 def __init__(self,photo = None,properties = None):
   self.photo = photo
